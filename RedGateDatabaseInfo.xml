@@ -64,7 +64,9 @@
     <DataWriteAllFilesInOneDirectory>True</DataWriteAllFilesInOneDirectory>
   </WriteToFileOptions>
   <DataFileSet>
-    <Count>1</Count>
+    <Count>3</Count>
     <DataFile>dbo.EXAMPLE1_Data.sql</DataFile>
+    <DataFile>dbo.EXAMPLE22_Data.sql</DataFile>
+    <DataFile>dbo.EXAMPLE2_Data.sql</DataFile>
   </DataFileSet>
 </DatabaseInformation>
